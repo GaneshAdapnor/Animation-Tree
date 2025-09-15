@@ -35,5 +35,3 @@ This project creates a magical holiday experience with glowing particles, animat
   - Animates tree outline drawing  
   - Animates star and sparkle effects  
   - Controls timing with GSAP timelines 
-git clone https://github.com/your-username/christmas-tree.git
-cd christmas-tree
